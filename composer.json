@@ -4,7 +4,7 @@
     "type": "library",
     "require": {
         "php": "^8.1 || ^8.2 || ^8.3",
-        "akashwttech/password_exposed": "dev-master as 3.2.0",
+        "divineomega/password_exposed": "dev-master as 3.2.0",
         "illuminate/contracts": "^10.0 || ^11.0",
         "psr/cache": "^1.0 || ^2.0 || ^3.0"
     },
